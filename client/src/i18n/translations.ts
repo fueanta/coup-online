@@ -188,7 +188,7 @@ const translations: Translations = {
     'hi-IN': 'क्रिया',
     'it-IT': 'Azione',
     'pt-BR': 'Ação',
-    'bn-BD': 'কার্যক্রম',
+    'bn-BD': 'একশন',
   },
   actions: {
     'de-DE': 'Aktionen',
@@ -198,7 +198,7 @@ const translations: Translations = {
     'hi-IN': 'क्रियाएँ',
     'it-IT': 'Azioni',
     'pt-BR': 'Ações',
-    'bn-BD': 'কার্যক্রমসমূহ',
+    'bn-BD': 'একশনসমূহ',
   },
   [Actions.Assassinate]: {
     'de-DE': 'Attentat',
@@ -419,7 +419,7 @@ const translations: Translations = {
     'hi-IN': 'एक लक्ष्य चुनें',
     'it-IT': 'Scegli un Obiettivo',
     'pt-BR': 'Escolher um Alvo',
-    'bn-BD': 'একটি লক্ষ্য চয়ন করুন',
+    'bn-BD': 'একটি টার্গেট সিলেক্ট করুন',
   },
   chooseAnAction: {
     'de-DE': 'Wähle eine Aktion',
@@ -429,7 +429,7 @@ const translations: Translations = {
     'hi-IN': 'एक क्रिया चुनें',
     'it-IT': "Scegli un'Azione",
     'pt-BR': 'Escolher uma Ação',
-    'bn-BD': 'একটি কার্যক্রম চয়ন করুন',
+    'bn-BD': 'একটি একশন সিলেক্ট করুন',
   },
   chooseInfluenceToLose: {
     'de-DE': 'Wähle eine Einflusskarte, die du verlieren möchtest',
@@ -439,7 +439,7 @@ const translations: Translations = {
     'hi-IN': 'खोने के लिए एक प्रभाव चुनें',
     'it-IT': "Scegli un'influenza da perdere",
     'pt-BR': 'Escolher uma influência para perder',
-    'bn-BD': 'হারানোর জন্য একটি কার্ড চয়ন করুন',
+    'bn-BD': 'হারানোর জন্য একটি কার্ড সিলেক্ট করুন',
   },
   chooseInfluenceToReveal: {
     'de-DE': 'Wähle eine Einflusskarte, die du aufdecken möchtest',
@@ -449,7 +449,7 @@ const translations: Translations = {
     'hi-IN': 'प्रकट करने के लिए एक प्रभाव चुनें',
     'it-IT': "Scegli un'influenza da rivelare",
     'pt-BR': 'Escolher uma influência para revelar',
-    'bn-BD': 'প্রকাশের জন্য একটি কার্ড চয়ন করুন',
+    'bn-BD': 'প্রকাশের জন্য একটি কার্ড সিলেক্ট করুন',
   },
   chooseInfluencesToKeep: {
     'de-DE':
@@ -460,7 +460,7 @@ const translations: Translations = {
     'hi-IN': 'रखने के लिए {{count}} प्रभाव चुनें',
     'it-IT': 'Scegli {{count}} influenza{{plural[[e]]}} da mantenere',
     'pt-BR': 'Escolher {{count}} influência{{plural[[s]]}} para manter',
-    'bn-BD': 'রাখার জন্য {{count}}টি কার্ড চয়ন করুন',
+    'bn-BD': 'রাখার জন্য {{count}}টি কার্ড সিলেক্ট করুন',
   },
   choosePersonality: {
     'de-DE': 'Wähle eine Persönlichkeit',
@@ -470,7 +470,7 @@ const translations: Translations = {
     'hi-IN': 'एक व्यक्तित्व चुनें',
     'it-IT': 'Scegli una Personalità',
     'pt-BR': 'Escolher uma Personalidade',
-    'bn-BD': 'একটি ব্যক্তিত্ব চয়ন করুন',
+    'bn-BD': 'একটি ব্যক্তিত্ব সিলেক্ট করুন',
   },
   claimAnInfluence: {
     'de-DE': 'Beanspruche eine Einflusskarte',
@@ -530,7 +530,7 @@ const translations: Translations = {
     'hi-IN': 'क्रियाएँ पुष्टि करें',
     'it-IT': 'Conferma Azioni',
     'pt-BR': 'Confirmar Ações',
-    'bn-BD': 'কার্যক্রম নিশ্চিত করুন',
+    'bn-BD': 'একশন নিশ্চিত করুন',
   },
   contents: {
     'de-DE': 'Inhalt',
@@ -1147,7 +1147,7 @@ const translations: Translations = {
     'hi-IN': 'लक्ष्य',
     'it-IT': 'Obiettivo',
     'pt-BR': 'Objetivo',
-    'bn-BD': 'লক্ষ্য',
+    'bn-BD': 'টার্গেট',
   },
   home: {
     'de-DE': 'Startseite',
@@ -1640,7 +1640,7 @@ const translations: Translations = {
       "I giocatori si alternano nell'eseguire una delle seguenti azioni disponibili:",
     'pt-BR':
       'Os jogadores se revezam realizando uma das seguintes ações disponíveis:',
-    'bn-BD': 'খেলোয়াড়রা পালাক্রমে এই উপলব্ধ কার্যক্রমগুলির মধ্যে একটি করেন:',
+    'bn-BD': 'খেলোয়াড়রা পালাক্রমে এই উপলব্ধ একশনগুলির মধ্যে একটি করেন:',
   },
   rulesAmbassador: {
     'de-DE':
@@ -1705,7 +1705,7 @@ const translations: Translations = {
     'pt-BR':
       'Se outro jogador realizar uma ação que pode ser bloqueada, o jogador alvo, ou qualquer um no caso de Ajuda Estrangeira, pode bloqueá-la afirmando ter o personagem adequado em uma de suas cartas de influência. O jogador atuante não pode realizar a ação e não realiza nenhuma outra ação neste turno. Qualquer jogador pode optar por desafiar o jogador que bloqueia. Se vencerm o desafio, a ação prossegue normalmente.',
     'bn-BD':
-      'যদি অন্য কোনো খেলোয়াড় এমন একটি কার্যক্রম নেয় যা ব্লক করা যায়, তাহলে লক্ষ্য খেলোয়াড় বা রপ্তানির ক্ষেত্রে যে কেউ তাদের কার্ডে সঠিক চরিত্র থাকার দাবি করে ব্লক করতে পারেন। কার্যক্রম পরিচালনাকারী খেলোয়াড় কার্যক্রমটি করতে পারবেন না এবং এই টার্নে আর কোনো কার্যক্রম নেন না। যেকোনো খেলোয়াড় ব্লককারী খেলোয়াড়কে চ্যালেঞ্জ করতে পারেন। যদি তারা চ্যালেঞ্জ জিতে যায়, কার্যক্রমটি স্বাভাবিকভাবে চলবে।',
+      'যদি অন্য কোনো খেলোয়াড় এমন একটি একশন নেয় যা ব্লক করা যায়, তাহলে টার্গেট খেলোয়াড় বা রপ্তানির ক্ষেত্রে যে কেউ তাদের কার্ডে সঠিক চরিত্র থাকার দাবি করে ব্লক করতে পারেন। একশন পরিচালনাকারী খেলোয়াড় একশনটি করতে পারবেন না এবং এই টার্নে আর কোনো একশন নেন না। যেকোনো খেলোয়াড় ব্লককারী খেলোয়াড়কে চ্যালেঞ্জ করতে পারেন। যদি তারা চ্যালেঞ্জ জিতে যায়, একশনটি স্বাভাবিকভাবে চলবে।',
   },
   rulesCaptain: {
     'de-DE':
@@ -1741,7 +1741,7 @@ const translations: Translations = {
     'pt-BR':
       'Quando o jogador atuante declara sua ação, qualquer outro jogador pode desafiar seu direito de realizar a ação. Eles estão dizendo "Eu não acredito que você tenha o personagem adequado para fazer isso." O jogador atuante agora deve provar que tem o poder de realizar a ação ou perder o desafio. Se eles tiverem o personagem certo, eles o revelam e colocam a carta revelada de volta no baralho. Em seguida, eles embaralham o baralho e compram uma nova carta. O jogador desafiador perdeu o desafio. Se eles não tiverem o personagem adequado, eles perdem o desafio.',
     'bn-BD':
-      'যখন কার্যক্রম পরিচালনাকারী খেলোয়াড় তাদের কার্যক্রম ঘোষণা করেন, অন্য যেকোনো খেলোয়াড় কার্যক্রমটি নেওয়ার তাদের অধিকারকে চ্যালেঞ্জ করতে পারেন। তারা বলছেন "আমি বিশ্বাস করি না যে আপনার কাছে এটি করার জন্য সঠিক চরিত্র আছে।" কার্যক্রম পরিচালনাকারী খেলোয়াড়কে এখন প্রমাণ করতে হবে যে তাদের কার্যক্রমটি নেওয়ার ক্ষমতা আছে বা চ্যালেঞ্জ হারাতে হবে। যদি তাদের কাছে সঠিক চরিত্র থাকে, তারা এটি প্রকাশ করে এবং প্রকাশিত কার্ডটি ডেকে ফিরিয়ে রাখে। তারপর তারা ডেক শাফল করে এবং একটি নতুন কার্ড নেয়। চ্যালেঞ্জকারী খেলোয়াড় চ্যালেঞ্জ হেরেছে। যদি তাদের কাছে সঠিক চরিত্র না থাকে, তারা চ্যালেঞ্জ হেরে যায়।',
+      'যখন একশন পরিচালনাকারী খেলোয়াড় তাদের একশন ঘোষণা করেন, অন্য যেকোনো খেলোয়াড় একশনটি নেওয়ার তাদের অধিকারকে চ্যালেঞ্জ করতে পারেন। তারা বলছেন "আমি বিশ্বাস করি না যে আপনার কাছে এটি করার জন্য সঠিক চরিত্র আছে।" একশন পরিচালনাকারী খেলোয়াড়কে এখন প্রমাণ করতে হবে যে তাদের একশনটি নেওয়ার ক্ষমতা আছে বা চ্যালেঞ্জ হারাতে হবে। যদি তাদের কাছে সঠিক চরিত্র থাকে, তারা এটি প্রকাশ করে এবং প্রকাশিত কার্ডটি ডেকে ফিরিয়ে রাখে। তারপর তারা ডেক শাফল করে এবং একটি নতুন কার্ড নেয়। চ্যালেঞ্জকারী খেলোয়াড় চ্যালেঞ্জ হেরেছে। যদি তাদের কাছে সঠিক চরিত্র না থাকে, তারা চ্যালেঞ্জ হেরে যায়।',
   },
   rulesContents: {
     'de-DE': 'Deck von Einflusskarten, Bank von Münzen.',

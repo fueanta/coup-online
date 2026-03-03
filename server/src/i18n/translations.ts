@@ -12,7 +12,7 @@ const translations = {
     'hi-IN': 'यह क्रिया चुनौती नहीं दी जा सकती',
     'it-IT': 'Questa azione non può essere contestata',
     'pt-BR': 'Esta ação não pode ser contestada',
-    'bn-BD': 'এই কার্যক্রমটি চ্যালেঞ্জ করা যাবে না',
+    'bn-BD': 'এই একশনটি চ্যালেঞ্জ করা যাবে না',
   },
   actionNotCurrentlyAllowed: {
     'de-DE': 'Diese Aktion ist gerade nicht erlaubt',
@@ -22,7 +22,7 @@ const translations = {
     'hi-IN': 'आप अभी इस क्रिया को नहीं कर सकते',
     'it-IT': 'Non puoi eseguire questa azione in questo momento',
     'pt-BR': 'Você não pode realizar esta ação no momento',
-    'bn-BD': 'আপনি এখন এই কার্যক্রমটি নিতে পারবেন না',
+    'bn-BD': 'আপনি এখন এই একশনটি নিতে পারবেন না',
   },
   blockMayNotBeBlocked: {
     'de-DE': 'Du kannst einen Block nicht blockieren',
@@ -152,7 +152,7 @@ const translations = {
     'hi-IN': '10 या अधिक सिक्के होने पर अमान्य क्रिया',
     'it-IT': 'Azione non valida quando hai 10 o più monete',
     'pt-BR': 'Ação inválida quando você tem 10 ou mais moedas',
-    'bn-BD': '১০ বা তার বেশি কয়েন থাকলে অবৈধ কার্যক্রম',
+    'bn-BD': '১০ বা তার বেশি কয়েন থাকলে অবৈধ একশন',
   },
   invalidPlayerCount: {
     'de-DE': 'Das Spiel muss zwischen 1 und {{count}} Spielern haben',
@@ -332,7 +332,7 @@ const translations = {
     'hi-IN': 'आप खुद को लक्ष्य नहीं बना सकते',
     'it-IT': 'Non puoi mirare a te stesso',
     'pt-BR': 'Você não pode se mirar',
-    'bn-BD': 'আপনি নিজেকে লক্ষ্য করতে পারবেন না',
+    'bn-BD': 'আপনি নিজেকে টার্গেট করতে পারবেন না',
   },
   targetPlayerNotAllowedForAction: {
     'de-DE': 'Zielspieler für Aktion nicht erlaubt',
@@ -342,7 +342,7 @@ const translations = {
     'hi-IN': 'लक्ष्य खिलाड़ी कार्रवाई के लिए अनुमति नहीं है',
     'it-IT': 'Giocatore target non consentito per l\'azione',
     'pt-BR': 'Jogador alvo não permitido para a ação',
-    'bn-BD': 'কার্যক্রমের জন্য লক্ষ্য খেলোয়াড় অনুমোদিত নয়',
+    'bn-BD': 'একশনের জন্য টার্গেট খেলোয়াড় অনুমোদিত নয়',
   },
   targetPlayerRequiredForAction: {
     'de-DE': 'Zielspieler für Aktion erforderlich',
@@ -352,7 +352,7 @@ const translations = {
     'hi-IN': 'लक्ष्य खिलाड़ी कार्रवाई के लिए आवश्यक है',
     'it-IT': 'Giocatore target richiesto per l\'azione',
     'pt-BR': 'Jogador alvo necessário para a ação',
-    'bn-BD': 'কার্যক্রমের জন্য লক্ষ্য খেলোয়াড় প্রয়োজন',
+    'bn-BD': 'একশনের জন্য টার্গেট খেলোয়াড় প্রয়োজন',
   },
   unableToDetermineNextPlayerTurn: {
     'de-DE': 'Nächsten Zugspieler nicht bestimmt',
@@ -372,7 +372,7 @@ const translations = {
     'hi-IN': 'लंबित कार्रवाई नहीं मिली',
     'it-IT': 'Impossibile trovare l\'azione in sospeso',
     'pt-BR': 'Não foi possível encontrar a ação pendente',
-    'bn-BD': 'মুলতুবি কার্যক্রম খুঁজে পাওয়া যাচ্ছে না',
+    'bn-BD': 'মুলতুবি একশন খুঁজে পাওয়া যাচ্ছে না',
   },
   unableToFindPlayer: {
     'de-DE': 'Spieler nicht gefunden',
