@@ -2,7 +2,7 @@ import { BugReport, GitHub, Lightbulb } from "@mui/icons-material"
 import { Button, Grid } from "@mui/material"
 import { useTranslationContext } from "../contexts/TranslationsContext"
 
-const repoUrl = 'https://github.com/lounsbrough/coup-online'
+const repoUrl = 'https://github.com/fueanta/coup-online'
 
 function GitHubLinks() {
   const { t } = useTranslationContext()

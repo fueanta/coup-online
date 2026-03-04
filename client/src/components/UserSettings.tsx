@@ -62,7 +62,7 @@ function UserSettings() {
               <Tooltip title={t('reportIncorrectTranslation')}>
                 <IconButton
                   sx={{ ml: 1 }}
-                  href='https://github.com/lounsbrough/coup-online/issues/new?template=incorrect_translation.md'
+                  href='https://github.com/fueanta/coup-online/issues/new?template=incorrect_translation.md'
                   target="_blank"
                 >
                   <Feedback />
